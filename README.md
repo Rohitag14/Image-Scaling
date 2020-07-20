@@ -1,2 +1,2 @@
 # Image-Scaling
-Image scaling is the operation used in Digit Image Processing in which we have to scaled the particular part of the image
+Image scaling is the operation used in Digit Image Processing. Image scaling refers to the resizing of a digital image
