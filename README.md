@@ -17,7 +17,7 @@ The  basic intent of this project is to perform the scaling to an image. The sca
   
   2. Install python
   
-  3. Download the source code and the picture in the same folder
+  3. Download the source code and test.png in the same folder
   
   4. Run the program using python image_scaling.py
   
