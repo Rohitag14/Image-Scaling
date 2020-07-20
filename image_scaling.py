@@ -72,7 +72,7 @@ def mouseRGB(event,x,y,flags,param):
         cv2.imshow('zout',img3)
         
        
-image = cv2.imread("test1.webp")     #reading image
+image = cv2.imread("test.png")     #reading image
 cv2.namedWindow('mouseRGB')
 cv2.setMouseCallback('mouseRGB',mouseRGB)
  
