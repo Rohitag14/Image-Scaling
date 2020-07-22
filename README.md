@@ -21,7 +21,7 @@ The  basic intent of this project is to perform the scaling to an image. The sca
   
   4. Run the program using python image_scaling.py
   
-  5. 3 windows will open when you will move your mouse pointer in the image
+  5. 3 windows will open when you move your mouse pointer in the image
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Original image of particular area for which you want to zoom
   
